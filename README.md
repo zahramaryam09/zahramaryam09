@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @zahramaryam09 a Computer science student from Pakistan
+- 👋 Hi, I’m @zahramaryam09 a SWE from Pakistan
 - 👀 I’m interested in competitive programming, web development and generative AI
-- 🌱 I’m currently diving deep in Javascript and focusing on my DSA skills
+- 🌱 I’m currently dworking on Ruby on Rails projects.
 - ⚡ I’m looking to collaborate on some web development project
-- ⭐ Aspiring software engineer with skills in HTML, CSS, JAvASCRIPT, C++, website designing, Graphic designing (striving to add meaningful items in this list:)_)
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/maryam-zahra-93b80b325/
 
 <!---
